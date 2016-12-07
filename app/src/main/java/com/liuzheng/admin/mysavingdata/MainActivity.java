@@ -33,7 +33,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
 //                String string = "Hello world!";
 //                FileOutputStream outputStream;
 //                try {
-
 //                    outputStream = openFileOutput(filename, Context.MODE_PRIVATE);
 //                    outputStream.write(string.getBytes());
 //                    outputStream.close();
