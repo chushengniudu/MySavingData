@@ -22,7 +22,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         setContentView(R.layout.activity_main);
         button1 = (Button) findViewById(R.id.button1);
         button1.setOnClickListener(this);
-
     }
 
     @Override
