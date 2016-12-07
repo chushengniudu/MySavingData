@@ -28,6 +28,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.button1:
+
 //                String filename = "Liuzheng.txt";
 //                String string = "Hello world!";
 //                FileOutputStream outputStream;
