@@ -1,4 +1,4 @@
-package com.liuzheng.admin.mysavingdata;
+﻿package com.liuzheng.admin.mysavingdata;
 
 import android.app.Activity;
 import android.content.Context;
@@ -33,6 +33,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 //                String string = "Hello world!";
 //                FileOutputStream outputStream;
 //                try {
+
 //                    outputStream = openFileOutput(filename, Context.MODE_PRIVATE);
 //                    outputStream.write(string.getBytes());
 //                    outputStream.close();
